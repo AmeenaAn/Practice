@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is F276-518C
+
+ Directory of C:\Users\Ameena Anjum\MyProject
+
+27-02-2022  21:28    <DIR>          .
+27-02-2022  21:28    <DIR>          ..
+27-02-2022  21:28                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  261,783,564,288 bytes free
